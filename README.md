@@ -15,8 +15,8 @@
  
  ## Usando o Vagrant para subir um servidor apache
  
- É recomendado criar uma pasta para centralizar o arquivo de configuração do vagrant, pode ser com o nome : **vagrantefile**. 
- Após isso criar um arquivo com o nome __vagrante__ com o respectivo script:
+ É recomendado criar uma pasta para centralizar o arquivo de configuração do vagrant, pode ser com o nome : **vagrant**. 
+ Após isso criar um arquivo com o nome __vagrantfile__ com o respectivo script:
  ```script
   # -*- mode: ruby ​​-*-
 # vi: set ft=ruby:
