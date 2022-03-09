@@ -2,7 +2,7 @@
 
 ## Base para gerar um ambiente de virtualização
 ---
-> - Versão do vagrant `2.2.19` [vagrant](https://github.com/Sandyel/infra-virtualizacao-info/commits/v2.2.19)
+> - Versão do vagrant `2.2.19` 
 > - Link para baixa a VM VirtualBox  ---> [***Baixa aqui a VM VirtualBox***](https://www.virtualbox.org/wiki/Downloads)
 >
 > links para downloads de algumas imagens do linux: 
